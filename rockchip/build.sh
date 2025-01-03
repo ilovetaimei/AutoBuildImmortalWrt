@@ -23,7 +23,7 @@ PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
-PACKAGES="$PACKAGES luci-proto-wireguard
+PACKAGES="$PACKAGES luci-proto-wireguard"
 
 
 # 构建镜像
